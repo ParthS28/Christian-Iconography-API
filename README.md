@@ -11,6 +11,8 @@ Run
 
 Or 
 
+Tested on Python 3.7
+
 Create a virtual environment using `virtualenv venv` and activate it using `source venv/bin/activate`
 
 Download requirements using `pip install -r requirements.txt` and then `cd app` where you run `uvicorn main:app --reload`
